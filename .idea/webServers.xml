@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="81773e0a-208d-478d-9d4a-e7beae625dab" name="176.223.143.169" url="http://176.223.143.169">
+        <fileTransfer host="176.223.143.169" port="21" rootFolder="/var/www/html/mjax">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
